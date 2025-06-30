@@ -45,7 +45,7 @@ Instructions To Run
 
 Demo
 =====================
-![]()
+![](demo.gif)
 
 Possible Improvements
 ======================
